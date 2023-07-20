@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del prepcourse de Henry
+practica modulo 2, crear un repo y clonarlo desde guthub a mi entorno local
